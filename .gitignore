@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Local artifacts / temp
+*.png
+loss_curve.png
+scratch/
+temp_check/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
